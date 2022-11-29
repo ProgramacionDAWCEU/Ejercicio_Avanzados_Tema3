@@ -4,8 +4,6 @@ public class prueba {
 
 	
 	public static void main(String[] args) {
-		System.out.println("gafas");
-		System.out.println();
-		System.out.println();
+		System.out.println("hola soy un gafas");
 	}
 }
